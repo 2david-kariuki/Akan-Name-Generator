@@ -70,3 +70,18 @@ input [type="radio"] {
 .radio-group {
   margin-bottom: 20px;
 }
+
+button {
+  background-color: #2980b9;
+  color: white;
+  padding: 10px;
+  font-size: 1.1rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button: hover {
+  background-color: #3498db;
+}
