@@ -61,3 +61,8 @@ label {
   margin-bottom: 5px;
   color: #34495e;
 }
+
+input [type="radio"] {
+  width: auto;
+  margin-right: 10px;
+},
