@@ -47,3 +47,11 @@ p {
   font-weight: bolder;
   box-sizing: border-box;
 }
+
+form {
+  flex-direction: column;
+}
+
+. form-group {
+  margin-bottom: 20px;
+}
